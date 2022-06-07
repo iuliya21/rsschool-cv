@@ -1,33 +1,39 @@
-# **IULIYA CHADLIN**
+# *IULIYA CHADLIN*  
 
->In the middle of difficulty lies opportunity. Albert Einstein.
+***  
 
-=
+>In the middle of difficulty lies opportunity. Albert Einstein  
 
-![](C:\Users\user\Desktop\1531.JPG)
+***  
 
-***Contacts:***
-**email:* iuliya21@mail.ru
-**discord:* iuliya_21#1165
-**tg:* @iuliya_21
+![avatar](file:///C:/Users/user/Desktop/IMG_1647.jpg)  
 
-=
+***Contacts:***  
 
-***About myself:***
-I want to learn Front-End Development in RSSchool
+- *email:* iuliya21@mail.ru  
 
-***Strengths***
-*purposefulness, persistence, love for learning*
+- *discord:* iuliya_21#1165  
+
+- *tg:* @iuliya_21  
+
+
+***  
+
+***About myself:***  
+I want to learn Front-End Development in RSSchool  
+
+***Strengths:***  
+* *purposefulness,  persistence,  love for learning*  
 
 ***Education:***
-*Ufa State Aviation Technical University. Bachelor's degree of Biomedical systems and technologies. 2012-2016
-*Ufa State Aviation Technical University. Master's degree of Biomedical systems and technologies. 2016-2018
+* *Ufa State Aviation Technical University. Bachelor's degree of Biomedical systems and technologies. 2012-2016
+* *Ufa State Aviation Technical University. Master's degree of Biomedical systems and technologies. 2016-2018
 
 ***Work experience:***
-Tender specialist in company Bazis-Med+. 2016-2019
-Tender specialist in company TreidPlus. 2019-Until now
+* Tender specialist in company Bazis-Med+. 2016-2019
+* Tender specialist in company TreidPlus. 2019-Until now
 
-***Language:***
+***Language:***  
 *Intermediate (B1)*
 
 ***Code example:***
