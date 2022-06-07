@@ -1,19 +1,14 @@
 # *IULIYA CHADLIN*  
 
->In the middle of difficulty lies opportunity. Albert Einstein  
-
-***  
+>In the middle of difficulty lies opportunity. Albert Einstein   
 
 ![](https://wampi.ru/image/RZPtFm7)  
 
 ***Contacts:***  
 
 - *email:* iuliya21@mail.ru  
-
 - *discord:* iuliya_21#1165  
-
 - *tg:* @iuliya_21  
-
 
 ***  
 
@@ -23,7 +18,7 @@
 ***About myself:***  
 I want to learn Front-End Development in RSSchool  
 
-***Education:***
+***Education:***  
 * Ufa State Aviation Technical University. Bachelor's degree of Biomedical systems and technologies. 2012-2016
 * Ufa State Aviation Technical University. Master's degree of Biomedical systems and technologies. 2016-2018
 
