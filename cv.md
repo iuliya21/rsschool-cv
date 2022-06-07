@@ -1,17 +1,15 @@
 # *IULIYA CHADLIN*  
 
-***  
-
 >In the middle of difficulty lies opportunity. Albert Einstein  
 
 ***  
 
-![avatar](file:///C:/Users/user/Desktop/IMG_1647.jpg)  
+![](https://wampi.ru/image/RZPtFm7)  
 
 ***Contacts:***  
 
 - *email:* iuliya21@mail.ru  
-
+gi
 - *discord:* iuliya_21#1165  
 
 - *tg:* @iuliya_21  
@@ -19,15 +17,15 @@
 
 ***  
 
-***About myself:***  
-I want to learn Front-End Development in RSSchool  
-
 ***Strengths:***  
 * *purposefulness,  persistence,  love for learning*  
 
+***About myself:***  
+I want to learn Front-End Development in RSSchool  
+
 ***Education:***
-* *Ufa State Aviation Technical University. Bachelor's degree of Biomedical systems and technologies. 2012-2016
-* *Ufa State Aviation Technical University. Master's degree of Biomedical systems and technologies. 2016-2018
+* Ufa State Aviation Technical University. Bachelor's degree of Biomedical systems and technologies. 2012-2016
+* Ufa State Aviation Technical University. Master's degree of Biomedical systems and technologies. 2016-2018
 
 ***Work experience:***
 * Tender specialist in company Bazis-Med+. 2016-2019
@@ -36,9 +34,11 @@ I want to learn Front-End Development in RSSchool
 ***Language:***  
 *Intermediate (B1)*
 
-***Code example:***
+***Code example:***  
+*This code on website Codewars*  
 
-```int multiply(int a, int b)
+```
+int multiply(int a, int b)
 {
 return  a * b;
 }```
