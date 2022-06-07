@@ -9,7 +9,7 @@
 ***Contacts:***  
 
 - *email:* iuliya21@mail.ru  
-gi
+
 - *discord:* iuliya_21#1165  
 
 - *tg:* @iuliya_21  
